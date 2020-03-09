@@ -1,0 +1,26 @@
+<annotation>
+	<folder>test</folder>
+	<filename>train_206.jpg</filename>
+	<path>/Users/poornimajoshi/Downloads/images_obj_detection/test/train_206.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>256</width>
+		<height>256</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>cloud</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>204</xmin>
+			<ymin>167</ymin>
+			<xmax>242</xmax>
+			<ymax>209</ymax>
+		</bndbox>
+	</object>
+</annotation>
